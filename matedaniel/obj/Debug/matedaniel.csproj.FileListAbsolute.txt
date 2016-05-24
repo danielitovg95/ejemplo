@@ -1,0 +1,6 @@
+c:\users\dvaldovinos\documents\visual studio 2015\Projects\matedaniel\matedaniel\bin\Debug\matedaniel.exe.config
+c:\users\dvaldovinos\documents\visual studio 2015\Projects\matedaniel\matedaniel\obj\Debug\matedaniel.csprojResolveAssemblyReference.cache
+c:\users\dvaldovinos\documents\visual studio 2015\Projects\matedaniel\matedaniel\bin\Debug\matedaniel.exe
+c:\users\dvaldovinos\documents\visual studio 2015\Projects\matedaniel\matedaniel\bin\Debug\matedaniel.pdb
+c:\users\dvaldovinos\documents\visual studio 2015\Projects\matedaniel\matedaniel\obj\Debug\matedaniel.exe
+c:\users\dvaldovinos\documents\visual studio 2015\Projects\matedaniel\matedaniel\obj\Debug\matedaniel.pdb
